@@ -1,0 +1,18 @@
+.odd {
+    background-color: 	#ff8686;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.size {
+    font-size: 24px;
+}
+
+.ewi {
+    background-color: #1fd655;
+    font-weight: bold;
+}
+
+#even {
+    color: #0000FF;
+    font-size: 36px;
+}
