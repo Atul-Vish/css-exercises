@@ -6,6 +6,7 @@
 
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center; /* This will align all the text inside the body in center */
 }
 
 img {
@@ -52,7 +53,11 @@ img {
   align-items: center;
 }
 
-.text {
+/* .text {
   text-align: center;
   flex-wrap: wrap;
-}
+} 
+
+All text can be centered with the help of body
+
+*/
