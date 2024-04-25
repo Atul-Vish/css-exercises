@@ -5,6 +5,7 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  /* After this */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -19,7 +20,8 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
-  padding: 10px;
+  /* After this */
+  padding: 8px 16px;
 }
 
 input {
@@ -27,6 +29,7 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
+  /* After this */
   margin-bottom: 16px;
 }
 
